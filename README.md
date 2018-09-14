@@ -20,9 +20,15 @@ Startups have always interested me. In the past I have often had conversations w
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Bank Tech Test](https://github.com/edthomas93/bank-tech-test) | During the third final week at Makers we were given tech tests to create an application using the best possible practices in a limited timeframe | 3 days | Ruby | RSpec |
-| [vBook](https://github.com/Team-Visage/vBook) | A clone of facebook using Ruby on Rails, a software that was completely new to us at the start of the project. In the second week we had to rewrite what we had done as the 'client' decided they wanted React integrated in the project.  | 2 weeks | Ruby on Rails, HTML/CSS (including some Bootstrap), JavaScript, Heroku, React | RSpec, Capybara, Travis |
+| [vBook](https://github.com/Team-Visage/vBook) | A clone of facebook using Ruby on Rails, a software that was completely new to us. In the second week we had change a lot of our code as the client decided React should be integrated in the project. | 2 weeks | Ruby on Rails, HTML/CSS (including some Bootstrap), JavaScript, Heroku, React | RSpec, Capybara, Travis |
 
 ## Skills
+
+#### Teamwork
+
+I believe that a productive team is one that can maintain the ability to work through the highs and the lows.
+
+For my second group project (creating a Facebook clone), we decided that the purpose of the 2 weeks was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always better coming out of them than going in as we could reflect on how much we had after particularly slow days. I believe this helped us to keep focus of what we wanted out of the project whilst maintaining good group cohesion. At the end
 
 #### Communication
 
@@ -33,32 +39,24 @@ Working as a client support agent, I was frequently on the phone to customers, a
 - I actively pursued learning Khmer to improve relationships within the team although it was not required is I could appreciate the importance of making an effort with my counterparts, not relying on them to speak my language.
 - I dealt with customer queries and assisted them in managing their finances at Hargreaves Lansdown, ensuring the customer had fully understood the risk with their investments.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (July to October 2018)
+#### Makers (July 2018 - September 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Makers has taught me many values, primarily how to test-drive my code.
+- I am always aiming to widen my toolset by using unfamiliar languages or frameworks.
+- I am a huge advocate of pair programming is ensures I craft well-written, readable code.
+- I have no fear of tackling new technologies due to the speed of progression at Makers.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Languages: Ruby, JavaScript, jQuery, HTML/CSS
+- Web Frameworks: Sinatra, Ruby on Rails, node.js
+- Databases: PostgreSQL, Firebase
+- Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Cypress
+- CI/CD: Travis CI, Heroku
 
 #### University of Bristol (September 2011 to June 2014)
 
 - Bachelor of Engineering, Civil
-- Achieved 2:2
 - Research Project Title: Surface Water Drainage for Urban Hillside Communities in Developing Countries
 
 #### Any other qualifications
@@ -67,9 +65,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **PA Disco Hire** (May 2016 to May 2018)   
 *Head of Operations*
+
 **VSO (Voluntary Services Overseas)** (February 2016 to May 2016)   
 *Volunteer (Working to promote inclusive education in Cambodia)*
+
 **Hargreaves Lansdown** (February 2015 to July 2015)    
-*Client Support Agent*  
-**Clover Advertising Ltd** (November 2014 to January 2015)   
-*Salesman*
+*Client Support Agent*
