@@ -48,12 +48,12 @@ Working as a client support agent, I was frequently on the phone to customers, a
 - I am a huge advocate of pair programming is ensures I craft well-written, readable code.
 - I have no fear of tackling new technologies due to the speed of progression at Makers.
 
-- Languages: Ruby, JavaScript, jQuery, HTML/CSS
-- Web Frameworks: Sinatra, Ruby on Rails, node.js
-- Databases: PostgreSQL, Firebase
-- Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Cypress
-- CI/CD: Travis CI, Heroku
-
+    - Languages: Ruby, JavaScript, jQuery, HTML/CSS, React
+    - Web Frameworks: Sinatra, Ruby on Rails, node.js
+    - Databases: PostgreSQL, Firebase
+    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Cypress
+    - CI/CD: Travis CI, Heroku
+    
 #### University of Bristol (September 2011 to June 2014)
 
 - Bachelor of Engineering, Civil
