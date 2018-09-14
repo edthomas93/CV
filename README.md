@@ -10,19 +10,17 @@
 
 </div>
 
-# Background
+## Background
 
 Since leaving university I decided to take some time for myself by doing part time work and then exploring the world, but having had my fun, I am now looking for a job with progression, where I can feel that my work is valued and where I can get a sense of satisfaction with what I am doing. I have completed an Engineering degree at the University of Bristol where I have proved that I am capable of applying my mathematical knowledge, and am keen to do so after my diverse albeit quite bizarre career path so far.
 
 Startups have always interested me. In the past I have often had conversations with my friends about ideas for new businesses, and I am currently involved in the business side of developing a new app that helps Vegetarians find food around London. In doing this I have found an interest in how these applications actually function and the challenges developers face, so I am looking for a role that will allow me to use my problem solving and mathematical skills to create.
 
-#Projects
-
-# Projects
+## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Bank Tech Test](https://github.com/edthomas93/bank-tech-test) | During the third final week at Makers we were given tech tests to create an application using the best possible practices in a limited timeframe | 3 days | Ruby | RSpec |
-| [vBook](https://github.com/Team-Visage/vBook) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | 2 weeks | Ruby on Rails, HTML/CSS (including some Bootstrap), JavaScript, Heroku, React | RSpec, Capybara, Travis |
+| [vBook](https://github.com/Team-Visage/vBook) | A clone of facebook using Ruby on Rails, a software that was completely new to us at the start of the project. In the second week we had to rewrite what we had done as the 'client' decided they wanted React integrated in the project.  | 2 weeks | Ruby on Rails, HTML/CSS (including some Bootstrap), JavaScript, Heroku, React | RSpec, Capybara, Travis |
 
 ## Skills
 
