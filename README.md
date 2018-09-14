@@ -1,16 +1,19 @@
-## Your Name
+## Edward Thomas
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Since leaving university I decided to take some time for myself by doing part time work and then exploring the world, but having had my fun, I am now looking for a job with progression, where I can feel that my work is valued and where I can get a sense of satisfaction with what I am doing. I have completed an Engineering degree at the University of Bristol where I have proved that I am capable of applying my mathematical knowledge, and am keen to do so after my diverse albeit quite bizarre career path so far.
+
+Startups have always interested me. In the past I have often had conversations with my friends about ideas for new businesses, and I am currently involved in the business side of developing a new app that helps Vegetarians find food around London. In doing this I have found an interest in how these applications actually function and the challenges developers face, so I am looking for a role that will allow me to use my problem solving and mathematical skills to create.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Working as a client support agent, I was frequently on the phone to customers, as well as when I went to Cambodia I had to break down cultural and language barriers to convey my ideas.
 
-- Experience
-- Achievements
-- Evidence
+- When working in Cambodia I would ensure everyone engaged in conversations so I could see everyone had a solid understanding of the tasks at hand.
+- I ran team meetings where I showed enthusiasm to keep the team engaged, leading to active discussions and maintaining focus in the heat.
+- I actively pursued learning Khmer to improve relationships within the team although it was not required is I could appreciate the importance of making an effort with my counterparts, not relying on them to speak my language.
+- I dealt with customer queries and assisted them in managing their finances at Hargreaves Lansdown, ensuring the customer had fully understood the risk with their investments.
 
 #### Another Skill
 
@@ -23,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July to October 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +37,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (September 2011 to June 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bachelor of Engineering, Civil
+- Achieved 2:2
+- Research Project Title: Surface Water Drainage for Urban Hillside Communities in Developing Countries
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**PA Disco Hire** (May 2016 to May 2018)   
+*Head of Operations*
+**VSO (Voluntary Services Overseas)** (February 2016 to May 2016)   
+*Volunteer (Working to promote inclusive education in Cambodia)*
+**Hargreaves Lansdown** (February 2015 to July 2015)    
+*Client Support Agent*  
+**Clover Advertising Ltd** (November 2014 to January 2015)   
+*Salesman*
