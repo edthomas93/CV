@@ -9,7 +9,7 @@
 
 </div>
 
-I am a recent graduate from an intensive programming bootcamp at Makers, where there is a focus on TDD, OOP and Agile processes. I took the leap to become a developer as I had found a real interest in software after a couple of friends and I began developing an app to help vegetarians find food around London. In doing this I had a taste of the challenges developers face and am keen to develop my problem solving skills in a creative way to build commericailly used applications.
+I am a recent graduate from an intensive programming bootcamp at Makers Academy in London, where there is a focus on test driven development, object oriented programming and agile processes. I took the leap to become a developer as I had found a real interest in software after a couple of friends and I began developing an app to help vegetarians find food easily around London. In doing this I had got a taste for the challenges developers face and am keen to develop my problem solving skills in a creative way to build commercially used applications.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used |
@@ -26,11 +26,12 @@ I am a recent graduate from an intensive programming bootcamp at Makers, where t
 
 I believe that a productive team is one that can maintain the ability to work through the highs and the lows.
 
-For my second group project (creating a Facebook clone), we decided that the purpose of the 2 weeks was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always better coming out of them than going in as we could reflect on how much we had after particularly slow days. I believe this helped us to keep focus of what we wanted out of the project whilst maintaining good group cohesion.
+For my second group project at Makers (creating a Facebook clone), we decided that the purpose of the 2 weeks was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always improved coming out of them as we could see our progress even after particularly slow days. I believe this helped us to keep focus of what we wanted out of the project whilst maintaining good group cohesion.
 
 #### Communication & Adaptability
 
-Communication has been a key skill required to succeed at Makers as there is a focus on pair programming there, allowing the students to discuss ideas and learn from one another. Previously, when I was working as a client support agent, I was frequently on the phone to customers, and when I was volunteering in Cambodia I had to break down cultural and language barriers to convey my ideas.
+Communication has been a key skill required to succeed at Makers as there is a focus on pair programming, encouraging collaboration. Previously, when I was working as a client support agent, I was frequently on the phone to customers, and when I was volunteering in Cambodia I had to break down cultural and language barriers to convey my ideas.
+
 
 - When working in Cambodia I would ensure everyone engaged in conversations so I could see everyone had a solid understanding of the tasks at hand.
 - I ran team meetings where I showed enthusiasm to keep the team engaged, leading to active discussions and maintaining focus in the heat.
@@ -41,16 +42,13 @@ Communication has been a key skill required to succeed at Makers as there is a f
 
 #### Makers (July 2018 - September 2018)
 
-- Makers has taught me many values, primarily how to test-drive my code.
-- I am always aiming to widen my toolset by using unfamiliar languages or frameworks.
-- I am a huge advocate of pair programming is ensures I craft well-written, readable code.
-- I have no fear of tackling new technologies due to the speed of progression at Makers.
+Makers has taught me many values, primarily how to test-drive my code. I am always aiming to widen my toolset by using unfamiliar languages or frameworks and have no fear of tackling new technologies due to the speed of progression at Makers. At Makers I learned:
 
-    - Languages: Ruby, JavaScript, jQuery, HTML/CSS, React
-    - Web Frameworks: Sinatra, Ruby on Rails, node.js
-    - Databases: PostgreSQL, Firebase, MongoDB
-    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Cypress
-    - CI/CD: Travis CI, Heroku
+- Languages: Ruby, JavaScript, jQuery, HTML/CSS, React
+- Web Frameworks: Sinatra, Ruby on Rails, node.js
+- Databases: PostgreSQL, Firebase, MongoDB
+- Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Cypress
+- CI/CD: Travis CI, Heroku
     
 #### University of Bristol (September 2011 to June 2014)
 
